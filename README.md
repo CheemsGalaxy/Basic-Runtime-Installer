@@ -11,7 +11,6 @@
 3. Right-click the file and choose **Run with PowerShell** (do **not** use Command Prompt or CMD).
 4. Wait for the installation to complete. Done!
 
-📄 [Đọc bằng tiếng Việt 🇻🇳](README.vi.md)
 
 ## 📦 Runtimes Included
 
