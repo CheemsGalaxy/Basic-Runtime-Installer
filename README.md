@@ -2,7 +2,7 @@
 
 **Basic Runtime Installer** is a PowerShell script that helps you install all essential runtimes for Windows. You no longer need to search and install each runtime manually — this script takes care of everything.
 
-📄 [Đọc bằng tiếng Việt 🇻🇳](README.vi.md)🇻🇳
+📄 [Đọc bằng tiếng Việt 🇻🇳](README.vi.md)
 
 ## 🛠️ How to Use
 
